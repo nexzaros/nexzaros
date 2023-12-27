@@ -9,6 +9,5 @@
 ---
 
 ### 🎯 Current Learning Progress
-<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/6584de825145316d253f8f7d?variant=dark&roadmaps=backend%2Ccomputer-science%2Cdocker%2Cdevops" alt="roadmap.sh"/></a>
-
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/6584de825145316d253f8f7d?variant=dark)](https://roadmap.sh)
 <!-- **nexzaros/nexzaros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
